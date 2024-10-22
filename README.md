@@ -1,4 +1,4 @@
-# Sales-Dashboard-Powerbi
+# Sales-Dashboard-using PowerBi
 
 Power BI dashboards serve as valuable tools for analyzing an organization's sales performance and trends, featuring key metrics like total sales, sales by product, location, customer segment, and product category. They enable comparisons with prior years' performance and offer the capability to drill down into specific markets and products, providing deeper insights into sales dynamics and helping drive informed decision-making.
 
